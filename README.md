@@ -13,5 +13,7 @@
 - Overall historical updates on the number of confirmed cases, recoveries and deaths.
 - Country specific counts on confirmed cases, recoveries and deaths
 
+## Data
 
+Data provided by Mathdroid API(https://github.com/mathdroid/covid-19-api)
 
