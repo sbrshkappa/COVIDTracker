@@ -15,5 +15,5 @@
 
 ## Data
 
-Data provided by Mathdroid API(https://github.com/mathdroid/covid-19-api)
+Data provided by [Mathdroid API](https://github.com/mathdroid/covid-19-api)
 
