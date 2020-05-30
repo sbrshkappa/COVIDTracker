@@ -1,4 +1,4 @@
-<h1 align="center">COVID-19 Tracker</h1>
+<h1 align="center"><a href="https://sbrshkappa.github.io/COVIDTracker/">COVID-19 Tracker</a></h1>
 <h3 align="center">A simple daily tracker for COVID.</h3>
 
 ![](gifs/coronatracker.gif)
